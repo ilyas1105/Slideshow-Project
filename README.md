@@ -1,0 +1,1 @@
+Introduction to Javascript week 6 and 7 on Zuri training and this is a task to create a carousel/slideshow with 6 different images. The images must be properly styled, directional icons must be shown only when hover on the images and the directional icons must be functional.
